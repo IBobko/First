@@ -5,5 +5,6 @@ public class Main {
 
 
         System.exit(0);
+        System.out.println("Hello World!" + " Welcome to the my programm!");
     }
 }
